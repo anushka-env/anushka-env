@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Anushka — AI Engineering, Data Science, GenAI & Agentic AI" />
-
 <table border="0" cellspacing="0" cellpadding="10">
 <tr>
 <td valign="top"><img src="./anushka-ascii.svg" width="370" alt="Anushka — ASCII portrait" /></td>
 <td valign="top"><img src="./info-card.svg" width="490" alt="Anushka — neofetch info card" /></td>
 </tr>
 </table>
+
+<img src="./banner.svg" width="100%" alt="Anushka — AI Engineering, Data Science, GenAI & Agentic AI" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anushka--env-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-env)
 [![Email](https://img.shields.io/badge/Email-anushka2967@gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushka2967@gmail.com)
